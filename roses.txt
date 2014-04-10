@@ -1,4 +1,4 @@
-Roses are red,
+Roses are 1000,
 Violets are blue,
 all my base
-are belong to you.
+are belong to 1010.
